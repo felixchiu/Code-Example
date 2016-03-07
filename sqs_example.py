@@ -1,3 +1,7 @@
+# Before you run the code, make sure you install the boto Python Lib:
+# pip install boto
+# pip install json
+
 
 import boto
 
